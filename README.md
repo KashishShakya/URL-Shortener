@@ -1,7 +1,6 @@
-<h1>URL Shortener</h1><br>
+<h1>URL Shortener</h1>
 <p>A simple URL shortener web application built with Node.js, Express.js, and EJS. It allows users to submit long URLs and get a short version that redirects to the original.</p>
-<br>
-<h3>Steps</h3><br>
+<h3>Steps</h3>
 <p>
 git clone https://github.com/your-username/url-shortener.git
   <br>
